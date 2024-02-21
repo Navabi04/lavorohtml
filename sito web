@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudyHub</title>
+    <link rel="stylesheet" href="stile.sito.css">
+</head>
+<body>
+    <header>
+        <h1>StudyHub</h1>
+        <img src="Screenshot 2024-02-16 152924.png" alt="immagine sito">
+    </header>
+    <nav>
+        <a href="#">Studenti</a>
+        <a href="#">Dispositivi disponibili</a>
+        <a href="#">Prestiti</a>
+    </nav>
+    <section>
+        
+        <img id="center"src="young-woman-studying-library_1303-19014.avif" alt="immagine studio"/>
+        
+    </section>
+    <footer>
+        <p>ITS Alto Adriatico
+            Fondazione Istituto Tecnico Superiore per le tecnologie dell’informazione e della comunicazione Alto Adriatico
+            <li> 
+            Sede centrale:
+            Consorzio Universitario di Pordenone
+            </li>
+            <li>
+                Via Prasecco, 3a - 33170 Pordenone
+            </li>
+            <li>
+                Telefono: +3904341697221
+            </li>
+            <li>
+                segreteria@itsaltoadriatico.it
+            </li>
+            <li>
+                itsaltoadriatico@pec.it
+            </li>
+             
+             </p>
+    </footer>
+</body>
+</html>
